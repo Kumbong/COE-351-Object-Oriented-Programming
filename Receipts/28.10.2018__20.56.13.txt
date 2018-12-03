@@ -1,0 +1,15 @@
+	Kenkey Boutique		Sun October 28 2018	20:56
+--------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+saussage            	0         	2         	0         
+chicken             	1.3       	2         	2.6       
+ga                  	0         	2         	0         
+fish                	4         	2         	8         
+kenkey              	15        	2         	30        
+--------------------------------------------------------------------
+Total                                                   40.6
+Total Discount                                             4
+Amount Payable                                          36.6
+--------------------------------------------------------------------
+Amount Paid                                               50
+Balance                                                 13.4

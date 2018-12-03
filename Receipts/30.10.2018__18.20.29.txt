@@ -1,0 +1,13 @@
+Transaction ID: 17	Kenkey Boutique		Tue October 30 2018 18:20
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+pepper              	0.5       	2         	1         
+fish                	2         	2         	4         
+chicken             	14        	1         	14        
+--------------------------------------------------------------------
+Total                                                     19
+Total Discount                                           0.5
+Amount Payable                                          18.5
+--------------------------------------------------------------------
+Amount Paid                                               20
+Balance                                                  1.5

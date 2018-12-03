@@ -1,0 +1,12 @@
+	Kenkey Boutique		Tue October 30 2018	15:38
+--------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+fish                	2         	1         	2         
+iced kenkey         	12        	1         	12        
+--------------------------------------------------------------------
+Total                                                     14
+Total Discount                                             0
+Amount Payable                                            14
+--------------------------------------------------------------------
+Amount Paid                                               15
+Balance                                                    1

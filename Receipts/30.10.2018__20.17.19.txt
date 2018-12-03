@@ -1,0 +1,11 @@
+Transaction ID: 26	Kenkey Boutique		Tue October 30 2018 20:17
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+ga kenkey           	6         	1         	6         
+--------------------------------------------------------------------
+Total                                                      6
+Total Discount                                             0
+Amount Payable                                             6
+--------------------------------------------------------------------
+Amount Paid                                                7
+Balance                                                    1

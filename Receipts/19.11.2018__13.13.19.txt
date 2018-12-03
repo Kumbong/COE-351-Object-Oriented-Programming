@@ -1,0 +1,14 @@
+Transaction ID: 33	Kenkey Boutique		Mon November 19 2018 13:13
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+tz                  	5.4       	1         	5.4       
+wakyee              	7         	1         	7         
+stew                	1.5       	1         	1.5       
+ga kenkey           	6         	1         	6         
+--------------------------------------------------------------------
+Total                                                   19.9
+Total Discount                                           0.2
+Amount Payable                                          19.7
+--------------------------------------------------------------------
+Amount Paid                                               20
+Balance                                                  0.3

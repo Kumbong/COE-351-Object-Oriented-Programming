@@ -1,0 +1,13 @@
+Transaction ID: 34	Kenkey Boutique		Sun November 25 2018 18:27
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+fried rice          	12        	1         	12        
+mashed kenkey       	12        	1         	12        
+jollof              	10        	2         	20        
+--------------------------------------------------------------------
+Total                                                     44
+Total Discount                                           1.2
+Amount Payable                                          42.8
+--------------------------------------------------------------------
+Amount Paid                                               43
+Balance                                                  0.2

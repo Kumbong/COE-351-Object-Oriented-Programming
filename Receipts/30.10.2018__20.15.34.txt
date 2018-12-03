@@ -1,0 +1,12 @@
+Transaction ID: 25	Kenkey Boutique		Tue October 30 2018 20:15
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+fish                	2         	1         	2         
+iced kenkey         	12        	3         	36        
+--------------------------------------------------------------------
+Total                                                     38
+Total Discount                                             0
+Amount Payable                                            38
+--------------------------------------------------------------------
+Amount Paid                                               40
+Balance                                                    2

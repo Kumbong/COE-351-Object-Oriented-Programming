@@ -1,0 +1,13 @@
+	Kenkey Boutique		Tue October 30 2018	16:02
+--------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+fried rice          	12        	1         	12        
+iced kenkey         	12        	1         	12        
+fish                	2         	1         	2         
+--------------------------------------------------------------------
+Total                                                     26
+Total Discount                                           0.2
+Amount Payable                                          25.8
+--------------------------------------------------------------------
+Amount Paid                                               30
+Balance                                                  4.2

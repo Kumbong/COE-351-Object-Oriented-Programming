@@ -1,0 +1,13 @@
+Transaction ID: 18	Kenkey Boutique		Tue October 30 2018 18:26
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+jollof              	10        	1         	10        
+chicken             	14        	2         	28        
+pepper              	0.5       	2         	1         
+--------------------------------------------------------------------
+Total                                                     39
+Total Discount                                             1
+Amount Payable                                            38
+--------------------------------------------------------------------
+Amount Paid                                               40
+Balance                                                    2

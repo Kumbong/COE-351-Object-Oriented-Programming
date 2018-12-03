@@ -1,0 +1,12 @@
+Transaction ID: 24	Kenkey Boutique		Tue October 30 2018 20:15
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+pepper              	0.5       	1         	0.5       
+banku               	12        	1         	12        
+--------------------------------------------------------------------
+Total                                                   12.5
+Total Discount                                             0
+Amount Payable                                          12.5
+--------------------------------------------------------------------
+Amount Paid                                               13
+Balance                                                  0.5

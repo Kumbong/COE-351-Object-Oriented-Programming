@@ -1,0 +1,10 @@
+Transaction ID: 5	Kenkey Boutique		Tue October 30 2018	16:13
+-----------------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+--------------------------------------------------------------------
+Total                                                      0
+Total Discount                                             0
+Amount Payable                                             0
+--------------------------------------------------------------------
+Amount Paid                                               20
+Balance                                                   20

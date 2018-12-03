@@ -1,0 +1,12 @@
+Transaction ID: 31	Kenkey Boutique		Thu November 1 2018 10:54
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+mashed kenkey       	12        	1         	12        
+fish                	2         	1         	2         
+--------------------------------------------------------------------
+Total                                                     14
+Total Discount                                             1
+Amount Payable                                            13
+--------------------------------------------------------------------
+Amount Paid                                               15
+Balance                                                    2

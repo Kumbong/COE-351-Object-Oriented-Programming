@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>kenkey.jpeg</file>
+        <file>customer.png</file>
+        <file>inventory.jpg</file>
+        <file>settings.png</file>
+        <file>statistics.png</file>
+        <file>sales.png</file>
+        <file>kenkey1.png</file>
+        <file>fried_rice.jpg</file>
+        <file>add.png</file>
+        <file>edit.png</file>
+        <file>remove.png</file>
+        <file>add.jpg</file>
+        <file>banku.jpg</file>
+        <file>fante kenkey.jpg</file>
+        <file>ga kenkey.jpg</file>
+        <file>ice kenkey.jpg</file>
+        <file>jollof rice.jpg</file>
+        <file>kenkey.jpg</file>
+        <file>mashed kenkey.jpg</file>
+        <file>pictures.qrc</file>
+        <file>plain rice.jpg</file>
+        <file>red red.jpg</file>
+        <file>rice balls.jpg</file>
+        <file>tz.jpg</file>
+        <file>waakye.jpg</file>
+        <file>wallpaper.jpg</file>
+        <file>wallpaper1.png</file>
+        <file>chicken.jpg</file>
+        <file>fish.jpg</file>
+        <file>pepper.jpg</file>
+        <file>sausage.jpg</file>
+        <file>shito.jpg</file>
+        <file>stew.jpg</file>
+        <file>search.png</file>
+        <file>search1.png</file>
+        <file>profile_pic.png</file>
+        <file>transactions.png</file>
+        <file>windowIcon.png</file>
+        <file>foodItem.png</file>
+    </qresource>
+</RCC>

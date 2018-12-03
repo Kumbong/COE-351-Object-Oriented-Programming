@@ -1,0 +1,12 @@
+Transaction ID: 28	Kenkey Boutique		Tue October 30 2018 20:22
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+jollof              	10        	1         	10        
+ga kenkey           	6         	1         	6         
+--------------------------------------------------------------------
+Total                                                     16
+Total Discount                                             0
+Amount Payable                                            16
+--------------------------------------------------------------------
+Amount Paid                                               20
+Balance                                                    4

@@ -1,0 +1,12 @@
+Transaction ID: 27	Kenkey Boutique		Tue October 30 2018 20:20
+----------------------------------------------------------------------
+Item	               Unit price	Quantity	 Subtotal  
+wakyee              	7         	1         	7         
+ga kenkey           	6         	1         	6         
+--------------------------------------------------------------------
+Total                                                     13
+Total Discount                                             0
+Amount Payable                                            13
+--------------------------------------------------------------------
+Amount Paid                                               15
+Balance                                                    2
