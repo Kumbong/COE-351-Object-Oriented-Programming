@@ -12,10 +12,10 @@
 #include <QScrollArea>
 #include <QVBoxLayout>
 #include <QList>
-#include <fooditem.h>
+#include <Types/fooditem.h>
 #include <QTableView>
-#include "user.h"
-#include "transaction.h"
+#include "Types/user.h"
+#include "Types/transaction.h"
 
 class LoginScreen;
 class CreateAccountScreen;

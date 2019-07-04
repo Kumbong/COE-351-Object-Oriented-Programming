@@ -2,13 +2,13 @@
 #include "ui_mainwindow.h"
 #include "Initialisation/loginscreen.h"
 #include "Initialisation/createaccountscreen.h"
-#include "salestablemodel.h"
-#include "inventorytablemodel.h"
+#include "Models/salestablemodel.h"
+#include "Models/inventorytablemodel.h"
 #include "Dialogs/editmenudialog.h"
 #include "Dialogs/changemenuitemdialog.h"
 #include "Dialogs/changepassworddialog.h"
-#include "fooditem.h"
-#include "themewidget.h"
+#include "Types/fooditem.h"
+#include "Types/themewidget.h"
 
 
 

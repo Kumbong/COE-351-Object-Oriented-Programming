@@ -1,7 +1,7 @@
 #ifndef SALESTABLEMODEL_H
 #define SALESTABLEMODEL_H
 
-#include "fooditem.h"
+#include "Types/fooditem.h"
 #include <QAbstractTableModel>
 #include <QString>
 #include <QList>

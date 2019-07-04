@@ -25,38 +25,38 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
+    Mainwindow/mainwindow.cpp \
     Initialisation/loginscreen.cpp \
     Initialisation/createaccountscreen.cpp \
-    salestablemodel.cpp \
-    inventorytablemodel.cpp \
-    fooditem.cpp \
+    Models/salestablemodel.cpp \
+    Models/inventorytablemodel.cpp \
+    Types/fooditem.cpp \
     Dialogs/editmenudialog.cpp \
     Dialogs/changemenuitemdialog.cpp \
-    inventoryitem.cpp \
-    themewidget.cpp \
+    Types/inventoryitem.cpp \
+    Types/themewidget.cpp \
     Dialogs/changepassworddialog.cpp \
-    user.cpp \
-    transaction.cpp
+    Types/user.cpp \
+    Types/transaction.cpp
 
 HEADERS += \
-        mainwindow.h \
+    Mainwindow/mainwindow.h \
     Initialisation/loginscreen.h \
     Initialisation/createaccountscreen.h \
-    salestablemodel.h \
-    inventorytablemodel.h \
-    typedefinitions.h \
-    fooditem.h \
+    Models/salestablemodel.h \
+    Models/inventorytablemodel.h \
+    Types/typedefinitions.h \
+    Types/fooditem.h \
     Dialogs/editmenudialog.h \
     Dialogs/changemenuitemdialog.h \
-    inventoryitem.h \
-    themewidget.h \
+    Types/inventoryitem.h \
+    Types/themewidget.h \
     Dialogs/changepassworddialog.h \
-    user.h \
-    transaction.h
+    Types/user.h \
+    Types/transaction.h
 
 FORMS += \
-        mainwindow.ui \
+    Mainwindow/mainwindow.ui \
     Initialisation/loginscreen.ui \
     Initialisation/createaccountscreen.ui \
     Dialogs/editmenudialog.ui \

@@ -1,7 +1,7 @@
 #ifndef INVENTORYTABLEMODEL_H
 #define INVENTORYTABLEMODEL_H
 
-#include "inventoryitem.h"
+#include "Types/inventoryitem.h"
 #include <QAbstractTableModel>
 
 class InventoryTableModel : public QAbstractTableModel
