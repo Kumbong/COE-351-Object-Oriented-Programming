@@ -14,3 +14,12 @@ Optional course project for Object Oriented Programming at Kwame Nkrumah Univers
 ![](Screenshots/demo3.PNG)
 ![](Screenshots/demo1.PNG)
 ![](Screenshots/demo2.PNG)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+License
+----
+
+MIT &copy; Kumbong Hermann
+
